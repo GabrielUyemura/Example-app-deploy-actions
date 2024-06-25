@@ -33,6 +33,9 @@
         echo $name;
         
         @endphp
+
+
+    <p>Chegou aqui!</p>
     <!-- comentario do html -->
 
     {{-- comentario do blade--}}
