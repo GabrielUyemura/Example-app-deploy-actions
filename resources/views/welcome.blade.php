@@ -6,7 +6,7 @@
 
 <div id="search-container" class="col-md-12">
     <h1>Busque um evento</h1>
-    <h2>teste</h2>
+    <h2>teste aaa/h2>
     <form action="">
         <input type="text" id="search" name="search" class="form-control" placeholder="Procurar...">
     </form>
